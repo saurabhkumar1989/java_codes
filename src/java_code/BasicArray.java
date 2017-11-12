@@ -1,7 +1,6 @@
 package java_code;
 
 import java.util.ArrayList;
-
 public class BasicArray {
 	public static void main(String [] args) {
 		double [] rainfall = new double[365];// array of size 365
